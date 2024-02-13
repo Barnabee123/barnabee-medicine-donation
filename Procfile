@@ -1,1 +1,1 @@
-web: gunicorn 
+web: gunicorn donate.wsgi
